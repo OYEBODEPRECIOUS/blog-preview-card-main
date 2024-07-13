@@ -1,3 +1,70 @@
 body {
-    background-color: ;
+    background-color: hsl(47, 88%, 63%);
+    font-family: Figtree;
+    width: 100%;
+    font-size: 16px;
+}
+
+
+.preview-card {
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+    width: max-content;
+    border-radius: 20px;
+    margin: 30px auto;
+    border: 2px solid black;
+    box-shadow: 10px 8px 5px black;
+}
+
+.illustration-image {
+    border-radius: 20px;
+    width: 100%;
+    /* filter: grayscale(); */
+}
+
+.preview-card-content {
+    text-align: left;
+}
+
+.topic {
+    background-color: hsl(47, 88%, 63%);
+    padding: 10px 20px;
+    width: max-content;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.publish-date {
+    font-weight: 400;
+    color: hsl(0, 0%, 7%);
+}
+
+.language-core {
+    font-size: 24px;
+    color: hsl(0, 0%, 7%);
+
+}
+
+.language-core-description {
+    color: hsl(0, 0%, 50%);
+}
+
+.author-container {
+    display: flex;
+    gap: 10px;
+}
+
+.author-image {
+    width: 50px;
+}
+
+.author-name {
+    font-weight: bold;
+    color: hsl(0, 0%, 7%);
+}
+
+@media screen > {
+    .preview-card {
+        width: 70%;
+    }
 }
