@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/OYEBODEPRECIOUS/blog-preview-card-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -56,28 +56,27 @@ Users should be able to:
 I learnt using max-content, centralizing div container
 
 ```css
-.preview-card{
+.preview-card {
   width: max-content;
 }
+```
 
 ### Continued development
 
 Still battling with the concept of centralizing a container in the midle from the top
-
 
 ### Useful resources
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-
 #Author
 
-- Website - [Oyebode Precious Isaac](https://www.your-site.com)
-- Frontend Mentor - [@Oyebode](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@koderzeus](https://www.twitter.com/yourusername)
+-Linkedin - [@OyebodePreciousIsaac] (www.linkedin.com/in/oyebode-precious-396a64237)
+
+- Frontend Mentor - [@OYEBODEPRECIOUS](https://www.frontendmentor.io/profile/OYEBODEPRECIOUS)
+- Twitter - [@koderzeus](https://x.com/koderzeus)
 
 #Acknowledgments
 
 I give glory to God almighty for giving me the priviledge to see this challenge online which was mentioned by Dillion Megida one of my mentors and also give kudos to OIC Hub and the tutors who taught me HTML and CSS. And also a wonderful applause to myself for completing this project in less than 1 hour.
-```
